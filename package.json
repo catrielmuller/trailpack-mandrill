@@ -18,10 +18,10 @@
     "trailjs"
   ],
   "dependencies": {
-    "joi": "^9.0.4",
-    "mandrill-api": "^1.0.45",
-    "trailpack": "latest",
-    "trails-service": "^1.0.0-beta-2"
+    "joi": "9.0.4",
+    "mandrill-api": "1.0.45",
+    "trailpack": "catrielmuller/trailpack#config-trailpacks-in-app",
+    "trails-service": "1.0.0-beta-2"
   },
   "devDependencies": {
     "lodash": "^4.11.1",
